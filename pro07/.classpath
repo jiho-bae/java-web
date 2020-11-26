@@ -16,5 +16,6 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="lib" path="/usr/local/Cellar/tomcat/9.0.40/lib/ojdbc6.jar"/>
 	<classpathentry kind="lib" path="/usr/local/Cellar/tomcat/9.0.40/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="/usr/local/Cellar/tomcat/9.0.40/lib/tomcat-dbcp-7.0.30.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
